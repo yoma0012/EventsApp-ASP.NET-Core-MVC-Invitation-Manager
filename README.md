@@ -66,7 +66,7 @@ Views (Razor UI) ←────
 2. Apply migrations: dotnet ef database update
 3. Run the application:dotnet run
 4. Login using the seeded admin:
-   Email: admin@example.com
+   Email: admin@admin.com
    Password: Admin123!
 
 ---
